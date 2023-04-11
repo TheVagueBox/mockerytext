@@ -1,4 +1,4 @@
-package com.adroitfount.mockerytextconverter;
+package com.thevaguebox.mockerytextconverter;
 
 import android.app.Activity;
 import android.content.ClipData;
