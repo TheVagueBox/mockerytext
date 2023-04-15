@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Mockery Text Converter</string>
     <string name="inputText">BORING FORMAT TEXT HERE</string>
-    <string name="uppercase">Start with Uppercase</string>
+    <string name="uppercase">Start with lowercase</string>
     <string name="generate">CONVERT</string>
     <string name="outputText">MOCKERY FORMAT TEXT HERE</string>
     <string name="inputInstruction">Paste or type regular text here</string>
